@@ -1,3 +1,3 @@
 # tribute-page
-HTML, CSS.
-Proyecto de freeCodeCamp.org.
+HTML, CSS. 
+Proyecto de [freeCodeCamp](freeCodeCamp.org).
